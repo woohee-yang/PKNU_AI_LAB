@@ -20,7 +20,7 @@
 ### [2020.07.09 ~ 2020.07.30] Deep Learning
 
 |Date|Contents|Presenter|
-|---||---||---|
+|---|---|---|
 |2020.07.09|Introduction to Deep Learning 2|Kokoy Siti Komariah|
 |2020.07.09|Introduction to Deep Learning 3|Nasim Sobhani|
 |2020.07.09|Introduction to Deep Learning 1|Yang Woohee|
